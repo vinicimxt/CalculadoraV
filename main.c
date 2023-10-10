@@ -20,7 +20,7 @@ int main() {
         precoInflacionado = preco * 1.20;
     }
 
-   
+
     printf("Valor original: R$ %.2f\n", preco);
     printf("Valor inflacionado: R$ %.2f\n", precoInflacionado);
 
