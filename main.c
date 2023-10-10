@@ -8,7 +8,7 @@ int main() {
     float preco, precoInflacionado;
 
     
-    printf("Digite o preço do produto: ");
+    printf("Digite o preco do produto: ");
     scanf("%f", &preco);
 
     
